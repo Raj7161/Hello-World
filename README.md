@@ -1,3 +1,3 @@
 # Hello-World
 This repository is for practicing the GitHub Flow.
-This is my first GitHub code repository.
+Now changing or writing in a readme-edits file
